@@ -1,2 +1,2 @@
 Linux command for deploying.
-BA training module GIT
+BA training module GIT and payment refund allowed within a day
