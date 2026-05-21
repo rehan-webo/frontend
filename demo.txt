@@ -1,2 +1,3 @@
 Linux command for deploying.
 BA training module GIT
+Refund allowed within 3 days
